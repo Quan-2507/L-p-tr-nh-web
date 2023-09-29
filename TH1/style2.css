@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+#table {
+    max-width: 800px;
+    margin: 100px auto;
+    border-width: medium;
+}
+div h3 {
+    text-align: center;
+}
+#header {
+    height: 50px;
+    border: 1px solid;
+    border-bottom: none;
+}
+#nav {
+    height: 50px;
+    border: 1px solid;
+    border-bottom: none;
+}
+#ind-cont {
+    height: 200px;
+    border: 1px solid;
+    display: flex;
+    border-bottom: none;
+}
+#index{
+    border-right: 1px solid;
+    width: 120px;
+    padding: 65px 10px;
+}
+#content{
+    text-align: center;
+    padding: 65px 195px;
+}
+#footer {
+    height: 100px;
+    border: 1px solid;
+    padding-top: 28px;
+}
