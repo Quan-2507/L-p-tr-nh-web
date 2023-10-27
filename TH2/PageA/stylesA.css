@@ -1,0 +1,227 @@
+body{
+    font-size: 12px;
+    color: black;
+    box-sizing: border-box;
+    font-family: Tahoma, Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#page{
+    background: white;
+}
+.container{
+    width: 810px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#section_normal_1 {
+    height: 80px;
+    width: auto;
+    border-bottom: 4px solid #dddddd;
+}
+#section_normal_1 .alpha{
+    width: auto;
+    float: left;
+    padding-top: 18px;
+}
+#section_normal_1 .omega{
+    width: auto;
+    float: right;
+    padding-top: 18px;
+}
+#section_normal_1 .social_button{
+    float: right;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+#section_normal_1 .htext_style{
+    float: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    color: #b2b2b2;
+    font-weight: 540;
+}
+/*--------------------------------------------*/
+#section_normal_4_2{
+    height: 520px;
+    width: auto;
+    background-color: #333333;
+    display: flex;
+}
+#section_normal_4_2 .pix_container{
+    float: left;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+#section_normal_4_2 .omega{
+    padding-top: 55px;
+}
+.blue_text{
+    font-weight: 600;
+    font-size: medium;
+    color: #2dbfe7;
+}
+.big_title{
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: xx-large;
+    color: #ffffff;
+    margin-bottom: 25px;
+}
+.light_gray{
+    font-size: small;
+    color: #8c8c8c;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+.btn_normal{
+    text-decoration: none;
+    font-weight: 650;
+    font-size: small;
+    padding: 12px;
+    color: #eeeeee;
+    text-align: center;
+    background-color: #2dbfe7;
+    border-radius: 2px;
+}
+/****************************************************************/
+#section_normal_6{
+    background: hsl(0deg 0% 93.33%);
+    border-bottom: 4px solid #dddddd;
+}
+#section_normal_6 .container .L1_style .pix_text{
+    font-size: 18px;
+}
+.envato_unbounce{
+    padding: 30px 0;
+}
+.L1_style {
+    margin-top: 5px;
+    text-align: center;
+    opacity: 0.55;
+    font-weight: bold;
+}
+
+.L2_style {
+    text-align: center;
+    font-weight: 400;
+    font-size: small;
+    color: #b2b2b2;
+    margin-top: 3px;
+    margin-bottom: 10px;
+
+}
+.stbox {
+    margin: 0;
+    padding: 0;
+}
+
+.stbox .pix_builder_bg{
+    float: left;
+    width: 48%;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.box_1 {
+    margin-top: 30px !important;
+    margin-right: 20px !important;
+}
+.box_2 {
+    margin-top: 30px !important;
+    margin-left: 10px !important;
+}
+.b_style {
+    padding: 16px 8px;
+    margin-right: 8px;
+    background-color: #F5F5F5;
+}
+
+.txt_style {
+    color: #aaa;
+    line-height: 1.4;
+}
+
+.env_st .pix_text {
+    color: #00BFFF;
+}
+.logo_style {
+    border-radius: 50%;
+}
+.center_text {
+    text-align: center;
+}
+#section_normal_6 .container:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+/*****************************************************/
+#section_agency_5  {
+    background: hsl(0deg 0% 100%);
+
+}
+#section_agency_5 .center_text{
+    display: block;
+}
+#section_agency_5 .f1_style{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#section_agency_5 .f2_style{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#section_agency_5 .second_link{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#section_agency_5 .second_link .slow_fade{
+    color: #5b9a68;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 15px 20px;
+    border: #5b9a68 solid 3px;
+
+}
+#section_agency_5 .f1_style .editContent .pix_text{
+    color: #5b9a68;
+    font-size: 20px;
+}
+#section_agency_5 .f2_style .editContent .pix_text{
+    color: #999999;
+
+    text-align: center;
+}
+#section_agency_5 .rights_st{
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+#section_agency_5 .editContent .pix_text .rights_st {
+    color: #999999;
+    font-weight: 500;
+}
+#section_agency_5 .editContent .pix_text .pixfort_st{
+    color: #5b9a68;
+    font-weight: 700;
+}
+#section_agency_5 .center_btn{
+    padding-top: 5px;
+    padding-right: 523px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 15px 57%;
+}
+.center_btn .social_button{
+    padding-right: 5px;
+}
+.rights_st .editContent .pix_text{
+    color: #999999;
+}
+
